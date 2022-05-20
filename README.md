@@ -64,13 +64,12 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%205-1.PNG?raw=true)
-![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex5-2.PNG?raw=true)
-![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%205-3.PNG?raw=true)
-![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%205-4.PNG?raw=true)
-![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%205-5.PNG?raw=true)
-![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%205-6.PNG?raw=true)
-
+![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%204-1.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%204-2.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%204-3.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%204-4.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%204-5.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ex%204-6.PNG?raw=true)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
